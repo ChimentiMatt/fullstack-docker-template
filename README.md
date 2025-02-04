@@ -96,3 +96,5 @@ fullstack-docker-template/
 └── README.md      # Project documentation
 ```
 ---
+
+Created by Matthew Chimenti: ChimentiMatt
