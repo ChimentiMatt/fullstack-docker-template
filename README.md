@@ -4,6 +4,13 @@ A Dockerized Full Stack setup with Django REST Framework (DRF) for the backend a
 
 ---
 
+🛠️ Version Information
+Docker: 27.4.0
+Python: 3.13.1
+Node.js: 20.17.0
+Django: 4.0 or higher
+Vite: 6.0.11
+
 ## 🚀 Getting Started
 
 ### Prerequisites
