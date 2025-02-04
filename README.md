@@ -15,7 +15,8 @@ A Dockerized Full Stack setup with Django REST Framework (DRF) for the backend a
 
 ### Prerequisites
 - Install [Docker Desktop](https://www.docker.com/products/docker-desktop).
-
+- Python: Version 3.13.1 or higher (required for the Django backend)
+- Node.js: Version 20.17.0 or higher (required for the Vite frontend)
 ---
 
 ## 🔧 Setup
