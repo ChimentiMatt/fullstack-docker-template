@@ -95,15 +95,3 @@ fullstack-docker-template/
 └── README.md      # Project documentation
 ```
 ---
-
-## ✅ Next Steps
-
-1. **Fork this repo** to start a new full-stack project.
-2. Modify **backend models & API endpoints** as needed.
-3. Customize **frontend UI & routes**.
-4. Deploy to **AWS, DigitalOcean, or Heroku** with `docker-compose`.
-
----
-
-🚀 **This template helps you quickly start new full-stack projects with Docker!**  
-Let me know if you need changes before committing! 🔥
