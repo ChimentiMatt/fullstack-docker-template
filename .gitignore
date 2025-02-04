@@ -1,0 +1,30 @@
+# 🚀 Python & Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# 🚀 Environment Variables
+.env
+*.env
+
+# 🚀 Docker Ignore Files
+docker-compose.override.yml
+venv/
+*.log
+
+# 🚀 Bytecode & Build
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+.vscode/
+*.bak
+
+# 🚀 Migrations (Optional: Exclude if you want devs to generate them)
+**/migrations/**
+
+# 🚀 Ignore PostgreSQL Data (Docker Volume)
+postgres_data/
