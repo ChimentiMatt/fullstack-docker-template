@@ -69,7 +69,7 @@ A Dockerized Full Stack setup with Django REST Framework (DRF) for the backend a
 ---
 
 ## 📂 Project Structure
-
+```
 fullstack-docker-template/
 ├── backend/        # Django backend (formerly movieproject)
 │   ├── backend/    # Django project files
@@ -86,7 +86,7 @@ fullstack-docker-template/
 ├── docker-compose.yml  # Docker configuration
 ├── .env.example   # Environment variables template
 └── README.md      # Project documentation
-
+```
 ---
 
 ## ✅ Next Steps
